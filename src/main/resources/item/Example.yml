@@ -1,0 +1,14 @@
+#Mythicmobs掉落兼容
+#EItems:
+#  drops:
+#      - God_Sword amount percent
+God_Sword:
+  name: "&c神之剑"
+  mats: DIAMOND_SWORD
+  lore:
+    - ''
+Epic_Sword:
+  name: "&c史诗之剑"
+  mats: DIAMOND_SWORD
+  lore:
+    - ''

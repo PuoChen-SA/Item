@@ -1,0 +1,7 @@
+Plugin-Loading:
+  - '&r'
+  - '&7正在加载 &3It&bem... &8{0}'
+  - '&r'
+Plugin-Enabled: '&8[&3It&bem&8] &b良好 &8| &3插件启用. 当前运行版本 &2{0}&7.'
+
+Item-Loader-Loaded: '&8[&3It&bem&8] &a良好 &8| &a{0} &3个物品已加载 &8({1} ms)'
